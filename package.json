@@ -1,0 +1,25 @@
+{
+  "name": "solo-sprint-csv-report-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wrightgabriel0220/solo-sprint-csv-report-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wrightgabriel0220/solo-sprint-csv-report-generator/issues"
+  },
+  "homepage": "https://github.com/wrightgabriel0220/solo-sprint-csv-report-generator#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
